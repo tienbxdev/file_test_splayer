@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="84.78s" xml:id="p0" end="88.24s">Fearsome monsters... Exotic creatures...</p>
+      <p begin="89.7s" xml:id="p1" end="93.0s">Vast riches... Hidden treasures...</p>
+      <p begin="95.13s" xml:id="p2" end="98.74s">Evil enclaves... Unexplored lands...</p>
+      <p begin="100.13s" xml:id="p3" end="103.25s">The word "unknown" holds magic.</p>
+      <p begin="103.25s" xml:id="p4" end="107.13s">And some incredible people are<br />drawn to that magic.</p>
+      <p begin="107.82s" xml:id="p5" end="109.58s">They are known...</p>
+      <p begin="111.44s" xml:id="p6" end="113.28s">...as Hunters!</p>
+      <p begin="115.02s" xml:id="p7" end="120.02s">Departure x And x Friends</p>
+      <p begin="120.57s" xml:id="p8" end="124.52s">Whale Island</p>
+      <p begin="142.61s" xml:id="p9" end="144.88s">Gon's still trying to catch the Lord of the Lake?</p>
+      <p begin="144.88s" xml:id="p10" end="145.84s">Huh?</p>
+      <p begin="146.87s" xml:id="p11" end="148.52s">Y-Yes...</p>
+      <p begin="148.52s" xml:id="p12" end="152.22s">He's been at it for a week, non-stop.</p>
+      <p begin="152.22s" xml:id="p13" end="156.7s">You promised he could take the Hunter Exam<br />if he caught the Lord of the Lake?</p>
+      <p begin="156.7s" xml:id="p14" end="157.51s">What a fool!</p>
+      <p begin="157.9s" xml:id="p15" end="160.98s">Five adults couldn't manage to<br />reel in that monster.</p>
+      <p begin="160.98s" xml:id="p16" end="163.55s">How is a child supposed to catch that beast?</p>
+      <p begin="163.55s" xml:id="p17" end="167.23s">Mito-san doesn't want him<br />taking the Hunter Exam.</p>
+      <p begin="167.23s" xml:id="p18" end="171.79s">But Gon's old man was the same age<br />when he caught it...</p>
+      <p begin="172.65s" xml:id="p19" end="173.88s">He can't do it.</p>
+      <p begin="195.1s" xml:id="p20" end="197.17s">Got him!</p>
+      <p begin="197.17s" xml:id="p21" end="198.14s">Yes! Yes! Yes! Yes! Yes!</p>
+      <p begin="198.14s" xml:id="p22" end="200.17s">I got him good!</p>
+      <p begin="236.57s" xml:id="p23" end="238.69s">It's huge!</p>
+      <p begin="238.69s" xml:id="p24" end="240.58s">This is the Lord of the Lake?</p>
+      <p begin="240.58s" xml:id="p25" end="242.07s">It's been twenty years!</p>
+      <p begin="242.07s" xml:id="p26" end="245.36s">I know! It was Gon's father that time, right?</p>
+      <p begin="245.36s" xml:id="p27" end="247.05s">He's his father's son.</p>
+      <p begin="247.69s" xml:id="p28" end="250.94s">Gon actually caught the Lord!</p>
+      <p begin="250.94s" xml:id="p29" end="252.06s">Look, Mito-san!</p>
+      <p begin="257.23s" xml:id="p30" end="258.63s">Mito-san!</p>
+      <p begin="258.63s" xml:id="p31" end="261.2s">I caught the Lord, as promised...</p>
+      <p begin="261.58s" xml:id="p32" end="264.24s">So I can take the Hunter Exam, right?</p>
+      <p begin="264.78s" xml:id="p33" end="265.7s">Right?</p>
+      <p begin="274.21s" xml:id="p34" end="275.7s">I'll do my best.</p>
+      <p begin="275.7s" xml:id="p35" end="277.71s">I promise to become a Hunter!</p>
+      <p begin="287.14s" xml:id="p36" end="289.79s">It must be in the blood...</p>
+      <p begin="289.79s" xml:id="p37" end="292.78s">No one has been able to catch the Lord</p>
+      <p begin="292.78s" xml:id="p38" end="296.0s">after Ging pulled it off, at the age of twelve.</p>
+      <p begin="296.0s" xml:id="p39" end="300.98s">And now his son has accomplished<br />the same feat, at the same age.</p>
+      <p begin="303.2s" xml:id="p40" end="308.01s">His eyes have the same shine as his father's.</p>
+      <p begin="309.82s" xml:id="p41" end="313.94s">We can no longer stop him.</p>
+      <p begin="318.08s" xml:id="p42" end="319.7s">Are you sure about this, Gon?</p>
+      <p begin="319.7s" xml:id="p43" end="320.72s">Uh-huh.</p>
+      <p begin="322.1s" xml:id="p44" end="325.95s">Your father abandoned you<br />when you were still young</p>
+      <p begin="325.95s" xml:id="p45" end="327.73s">to become a Hunter.</p>
+      <p begin="328.67s" xml:id="p46" end="329.95s">I know.</p>
+      <p begin="329.95s" xml:id="p47" end="332.59s">He chose becoming a Hunter over raising you!</p>
+      <p begin="333.45s" xml:id="p48" end="334.94s">Isn't that amazing?</p>
+      <p begin="334.94s" xml:id="p49" end="335.74s">Huh?</p>
+      <p begin="336.4s" xml:id="p50" end="339.48s">Being a Hunter is so great, he was willing</p>
+      <p begin="339.51s" xml:id="p51" end="340.88s">to abandon his own kid!</p>
+      <p begin="341.67s" xml:id="p52" end="343.85s">It's a dangerous job!</p>
+      <p begin="343.85s" xml:id="p53" end="346.88s">You never know when you might lose your life!</p>
+      <p begin="347.24s" xml:id="p54" end="348.37s">Don't you understand?</p>
+      <p begin="350.32s" xml:id="p55" end="351.86s">I don't.</p>
+      <p begin="351.86s" xml:id="p56" end="353.39s">But I want to know more!</p>
+      <p begin="354.08s" xml:id="p57" end="356.39s">I want to become a Hunter and discover why</p>
+      <p begin="356.39s" xml:id="p58" end="358.55s">it was so important to my dad!</p>
+      <p begin="367.99s" xml:id="p59" end="371.05s">You really are Ging's son...</p>
+      <p begin="382.05s" xml:id="p60" end="384.46s">I promise I'll pass the exam.</p>
+      <p begin="384.46s" xml:id="p61" end="387.52s">I'll pass the exam, and I'll become a Hunter!</p>
+      <p begin="388.68s" xml:id="p62" end="391.52s">Just promise that you'll come back safe.</p>
+      <p begin="392.24s" xml:id="p63" end="393.53s">Can you do that?</p>
+      <p begin="394.05s" xml:id="p64" end="396.07s">Uh-huh, I promise!</p>
+      <p begin="398.55s" xml:id="p65" end="400.54s">Pinky swear made...</p>
+      <p begin="400.74s" xml:id="p66" end="405.52s">Whoever breaks their promise has<br />to swallow a thousand needles.</p>
+      <p begin="406.3s" xml:id="p67" end="416.94s">Sealed with a kiss!</p>
+      <p begin="423.16s" xml:id="p68" end="424.04s">Gon...</p>
+      <p begin="426.02s" xml:id="p69" end="428.78s">Thank you, Mito-san.</p>
+      <p begin="449.06s" xml:id="p70" end="451.32s">Good luck!</p>
+      <p begin="453.78s" xml:id="p71" end="455.74s">Knock 'em dead!</p>
+      <p begin="463.49s" xml:id="p72" end="467.57s">I'm going to become the<br />best Hunter in the world!</p>
+      <p begin="467.57s" xml:id="p73" end="473.89s">Once I'm the best Hunter<br />in the world, I'll come back!</p>
+      <p begin="479.08s" xml:id="p74" end="481.7s">The best Hunter in the world?</p>
+      <p begin="482.35s" xml:id="p75" end="484.58s">Kid doesn't respect us.</p>
+      <p begin="484.58s" xml:id="p76" end="490.69s">Every year, there are millions of skilled<br />applicants for the Hunter Exam.</p>
+      <p begin="490.69s" xml:id="p77" end="493.1s">But only a handful are selected.</p>
+      <p begin="493.55s" xml:id="p78" end="497.21s">Don't say stuff that you can't back up, boy.</p>
+      <p begin="508.36s" xml:id="p79" end="509.61s">What are you doing, Katsuo?</p>
+      <p begin="509.98s" xml:id="p80" end="513.62s">At this rate, you'll never make a decent sailor.</p>
+      <p begin="519.8s" xml:id="p81" end="522.31s">Why are you bent over?</p>
+      <p begin="522.31s" xml:id="p82" end="523.89s">Hey, losers!</p>
+      <p begin="524.92s" xml:id="p83" end="526.51s">Don't slack off!</p>
+      <p begin="526.51s" xml:id="p84" end="527.9s">A-Aye, sir!</p>
+      <p begin="530.2s" xml:id="p85" end="530.9s">Hey...</p>
+      <p begin="531.72s" xml:id="p86" end="533.33s">Didn't you hear me?</p>
+      <p begin="533.33s" xml:id="p87" end="534.54s">Move that box!</p>
+      <p begin="534.54s" xml:id="p88" end="535.92s">A-Aye, Captain!</p>
+      <p begin="535.92s" xml:id="p89" end="537.14s">Hold on.</p>
+      <p begin="541.12s" xml:id="p90" end="542.54s">Thanks!</p>
+      <p begin="551.05s" xml:id="p91" end="552.55s">A storm's coming.</p>
+      <p begin="553.82s" xml:id="p92" end="555.94s">How can you tell, boy?</p>
+      <p begin="555.94s" xml:id="p93" end="558.12s">That's what the seagulls are saying.</p>
+      <p begin="558.12s" xml:id="p94" end="559.23s">What?</p>
+      <p begin="559.23s" xml:id="p95" end="560.16s">Plus...</p>
+      <p begin="575.42s" xml:id="p96" end="577.68s">It's a huge storm that's coming!</p>
+      <p begin="578.69s" xml:id="p97" end="579.68s">It's true...</p>
+      <p begin="580.19s" xml:id="p98" end="582.19s">I can tell by the smell!</p>
+      <p begin="583.42s" xml:id="p99" end="585.19s">That boy...</p>
+      <p begin="590.58s" xml:id="p100" end="592.01s">Those eyes...</p>
+      <p begin="592.67s" xml:id="p101" end="594.2s">Could he be...</p>
+      <p begin="612.48s" xml:id="p102" end="613.48s">Captain!</p>
+      <p begin="613.78s" xml:id="p103" end="616.04s">The mast won't last much longer!</p>
+      <p begin="616.04s" xml:id="p104" end="617.54s">We should lower the sails!</p>
+      <p begin="617.54s" xml:id="p105" end="619.01s">Don't be stupid!</p>
+      <p begin="619.51s" xml:id="p106" end="622.52s">The fun's about to start.</p>
+      <p begin="627.55s" xml:id="p107" end="628.73s">Here we go!</p>
+      <p begin="631.0s" xml:id="p108" end="633.5s">Full to port!</p>
+      <p begin="637.61s" xml:id="p109" end="640.67s">Let's fly!</p>
+      <p begin="645.92s" xml:id="p110" end="651.8s">Hunter Vocabulary</p>
+      <p begin="651.8s" xml:id="p111" end="655.99s">Gon</p>
+      <p begin="664.08s" xml:id="p112" end="667.14s">Those waves weren't much...</p>
+      <p begin="667.14s" xml:id="p113" end="669.26s">Hey, take the helm.</p>
+      <p begin="669.26s" xml:id="p114" end="670.57s">A-Aye!</p>
+      <p begin="673.3s" xml:id="p115" end="677.25s">Damn, this is one lousy crew.</p>
+      <p begin="680.53s" xml:id="p116" end="682.42s">Not a one of them can stand.</p>
+      <p begin="682.42s" xml:id="p117" end="684.22s">Pathetic.</p>
+      <p begin="684.22s" xml:id="p118" end="687.16s">And they're supposed to be<br />taking the Hunter Examination.</p>
+      <p begin="687.16s" xml:id="p119" end="689.56s">What a laugh!</p>
+      <p begin="689.56s" xml:id="p120" end="691.39s">Here are some herbs.</p>
+      <p begin="692.1s" xml:id="p121" end="694.32s">If you chew them, you'll feel a little better.</p>
+      <p begin="695.39s" xml:id="p122" end="696.67s">W-Water...</p>
+      <p begin="697.03s" xml:id="p123" end="698.9s">It's coming, so hold on.</p>
+      <p begin="699.52s" xml:id="p124" end="701.4s">That boy...</p>
+      <p begin="714.2s" xml:id="p125" end="716.42s">This is one sour apple...</p>
+      <p begin="717.04s" xml:id="p126" end="718.59s">I see.</p>
+      <p begin="718.59s" xml:id="p127" end="722.19s">There are a few tough nuts on board.</p>
+      <p begin="722.19s" xml:id="p128" end="723.11s">Excuse me!</p>
+      <p begin="723.81s" xml:id="p129" end="725.33s">H-Here is your water!</p>
+      <p begin="725.76s" xml:id="p130" end="726.93s">Thanks.</p>
+      <p begin="727.79s" xml:id="p131" end="729.31s">Now drink your fill.</p>
+      <p begin="742.98s" xml:id="p132" end="745.79s">Thanks. I really appreciate it, Katsuo-san.</p>
+      <p begin="750.7s" xml:id="p133" end="753.72s">First, tell me your names.</p>
+      <p begin="754.02s" xml:id="p134" end="755.41s">I'm Gon!</p>
+      <p begin="755.41s" xml:id="p135" end="757.27s">I'm Kurapika.</p>
+      <p begin="757.27s" xml:id="p136" end="758.83s">It's Leorio.</p>
+      <p begin="758.86s" xml:id="p137" end="762.42s">Why do you want to become Hunters?</p>
+      <p begin="762.42s" xml:id="p138" end="766.08s">Hey! If you're not an examiner,<br />you can't boss us around!</p>
+      <p begin="766.51s" xml:id="p139" end="768.6s">Just answer the question!</p>
+      <p begin="769.32s" xml:id="p140" end="771.61s">My dad is a Hunter.</p>
+      <p begin="773.57s" xml:id="p141" end="777.11s">I left Whale Island because I want to know</p>
+      <p begin="777.43s" xml:id="p142" end="780.48s">why my dad desired so much to be a Hunter.</p>
+      <p begin="781.75s" xml:id="p143" end="783.33s">Whale Island...</p>
+      <p begin="783.33s" xml:id="p144" end="786.14s">So this is Ging's son.</p>
+      <p begin="787.29s" xml:id="p145" end="789.93s">The day has finally come.</p>
+      <p begin="790.51s" xml:id="p146" end="792.14s">Hey, kid!</p>
+      <p begin="792.14s" xml:id="p147" end="792.86s">Huh?</p>
+      <p begin="792.9s" xml:id="p148" end="795.56s">You're not supposed to answer his question!</p>
+      <p begin="795.56s" xml:id="p149" end="797.93s">Why can't I tell him why I'm here?</p>
+      <p begin="797.93s" xml:id="p150" end="800.31s">Not a team player, huh?</p>
+      <p begin="800.31s" xml:id="p151" end="802.36s">I don't wish to reveal why I'm here.</p>
+      <p begin="802.36s" xml:id="p152" end="804.77s">I agree with Leorio.</p>
+      <p begin="804.77s" xml:id="p153" end="805.64s">What?</p>
+      <p begin="805.64s" xml:id="p154" end="808.2s">Hey! Aren't you younger than I am?</p>
+      <p begin="808.2s" xml:id="p155" end="810.11s">Show some respect!</p>
+      <p begin="810.11s" xml:id="p156" end="812.55s">It's quite simple to avoid pesky questions</p>
+      <p begin="812.55s" xml:id="p157" end="815.1s">by offering a plausible lie.</p>
+      <p begin="815.1s" xml:id="p158" end="817.02s">Hey! Are you listening to me?</p>
+      <p begin="817.05s" xml:id="p159" end="820.72s">However, it is quite shameful to rely upon deceit.</p>
+      <p begin="820.72s" xml:id="p160" end="823.99s">That said, if I were to tell you the truth,</p>
+      <p begin="823.99s" xml:id="p161" end="829.3s">I would be exposing my deepest secrets.</p>
+      <p begin="829.3s" xml:id="p162" end="832.23s">That is why I cannot provide an answer.</p>
+      <p begin="832.23s" xml:id="p163" end="834.44s">Hey, you... Don't ignore me!</p>
+      <p begin="834.44s" xml:id="p164" end="838.42s">In other words,<br />you refuse to answer my question.</p>
+      <p begin="839.29s" xml:id="p165" end="840.72s">Hey, Katsuo.</p>
+      <p begin="840.72s" xml:id="p166" end="841.81s">Aye, Captain.</p>
+      <p begin="842.3s" xml:id="p167" end="846.82s">Tell the examination board that<br />we have two more dropouts.</p>
+      <p begin="848.47s" xml:id="p168" end="849.82s">What do you mean?</p>
+      <p begin="849.82s" xml:id="p169" end="852.05s">You still haven't figured it out?</p>
+      <p begin="852.58s" xml:id="p170" end="855.32s">The Hunter Examination has already begun.</p>
+      <p begin="855.32s" xml:id="p171" end="856.54s">What?</p>
+      <p begin="861.86s" xml:id="p172" end="864.51s">There are as many Hunter wannabes</p>
+      <p begin="864.51s" xml:id="p173" end="866.9s">as there are stars in the sky.</p>
+      <p begin="866.9s" xml:id="p174" end="872.71s">The examiners don't have the time or<br />resources to review them all.</p>
+      <p begin="873.13s" xml:id="p175" end="878.72s">So they hire people like us, to trim the fat.</p>
+      <p begin="879.52s" xml:id="p176" end="881.56s">I've already notified the board</p>
+      <p begin="881.56s" xml:id="p177" end="885.09s">that everyone else on this ship had to withdraw.</p>
+      <p begin="886.23s" xml:id="p178" end="888.62s">If they couldn't handle a little storm,</p>
+      <p begin="888.62s" xml:id="p179" end="892.36s">they'd stand no chance in the<br />Hunter Examination's later stages.</p>
+      <p begin="892.71s" xml:id="p180" end="899.43s">In other words, you only proceed to<br />the main exam if I pass you.</p>
+      <p begin="900.71s" xml:id="p181" end="904.73s">So think carefully before you answer my question.</p>
+      <p begin="905.81s" xml:id="p182" end="907.22s">So he says...</p>
+      <p begin="909.8s" xml:id="p183" end="912.12s">Should have told us sooner.</p>
+      <p begin="914.07s" xml:id="p184" end="916.89s">I am the last survivor of the Kurta Clan.</p>
+      <p begin="919.45s" xml:id="p185" end="924.26s">Four years ago, my clan was annihilated<br />by a band of criminals.</p>
+      <p begin="925.01s" xml:id="p186" end="927.37s">I wish to become a Hunter and<br />hunt down that band,</p>
+      <p begin="927.37s" xml:id="p187" end="928.9s">the Phantom Troupe.</p>
+      <p begin="930.0s" xml:id="p188" end="932.88s">So you want to become a bounty hunter?</p>
+      <p begin="933.64s" xml:id="p189" end="936.41s">The Phantom Troupe is a Class-A bounty.</p>
+      <p begin="937.34s" xml:id="p190" end="940.64s">Not even the most grizzled Hunters<br />can touch them.</p>
+      <p begin="941.06s" xml:id="p191" end="943.48s">You'd be throwing away your life.</p>
+      <p begin="944.61s" xml:id="p192" end="946.76s">I do not fear death.</p>
+      <p begin="947.71s" xml:id="p193" end="950.79s">I fear only that my rage</p>
+      <p begin="951.36s" xml:id="p194" end="954.2s">will fade over time.</p>
+      <p begin="956.39s" xml:id="p195" end="958.81s">So, in other words, you want revenge.</p>
+      <p begin="958.81s" xml:id="p196" end="962.8s">Does that require that you become a Hunter?</p>
+      <p begin="963.12s" xml:id="p197" end="967.02s">That may be the stupidest question<br />I've ever heard, Leorio.</p>
+      <p begin="967.02s" xml:id="p198" end="968.54s">That's Leorio-san to you!</p>
+      <p begin="968.84s" xml:id="p199" end="971.54s">Places accessible only to Hunters...</p>
+      <p begin="971.54s" xml:id="p200" end="973.01s">Information otherwise unobtainable...</p>
+      <p begin="973.35s" xml:id="p201" end="974.67s">Actions otherwise impossible...</p>
+      <p begin="975.16s" xml:id="p202" end="979.2s">There are more reasons than your<br />brain could possibly handle.</p>
+      <p begin="980.17s" xml:id="p203" end="981.05s">Hey!</p>
+      <p begin="982.13s" xml:id="p204" end="985.15s">Why do you want to become a Hunter, Leorio-san?</p>
+      <p begin="985.95s" xml:id="p205" end="987.0s">Me?</p>
+      <p begin="987.53s" xml:id="p206" end="989.28s">I'll make it short.</p>
+      <p begin="990.27s" xml:id="p207" end="991.42s">I want money.</p>
+      <p begin="992.33s" xml:id="p208" end="995.83s">Money can get you everything!</p>
+      <p begin="996.26s" xml:id="p209" end="997.33s">A big house!</p>
+      <p begin="997.65s" xml:id="p210" end="998.84s">A nice car!</p>
+      <p begin="999.61s" xml:id="p211" end="1001.34s">Good liquor!</p>
+      <p begin="1002.82s" xml:id="p212" end="1006.42s">You can't buy class with money, Leorio.</p>
+      <p begin="1011.33s" xml:id="p213" end="1012.98s">That's three times now.</p>
+      <p begin="1013.96s" xml:id="p214" end="1015.21s">Step outside.</p>
+      <p begin="1015.95s" xml:id="p215" end="1019.33s">I'll end the filthy Kurta bloodline, here and now.</p>
+      <p begin="1019.93s" xml:id="p216" end="1021.42s">Take that back, Leorio!</p>
+      <p begin="1025.91s" xml:id="p217" end="1027.39s">Take that back!</p>
+      <p begin="1030.59s" xml:id="p218" end="1032.01s">That's Leorio-san to you.</p>
+      <p begin="1035.51s" xml:id="p219" end="1037.59s">Hey, boys!</p>
+      <p begin="1037.59s" xml:id="p220" end="1039.82s">I'm not finished yet!</p>
+      <p begin="1039.82s" xml:id="p221" end="1040.93s">Just let them go.</p>
+      <p begin="1040.93s" xml:id="p222" end="1041.51s">Huh?</p>
+      <p begin="1042.81s" xml:id="p223" end="1045.85s">Mito-san once told me...</p>
+      <p begin="1047.35s" xml:id="p224" end="1049.74s">If you want to get to know someone,</p>
+      <p begin="1049.74s" xml:id="p225" end="1051.75s">you need to make an effort</p>
+      <p begin="1052.02s" xml:id="p226" end="1054.06s">to learn why they're angry.</p>
+      <p begin="1055.92s" xml:id="p227" end="1059.9s">It's important for them to<br />understand why they're mad.</p>
+      <p begin="1060.28s" xml:id="p228" end="1063.39s">So we should let them settle it themselves.</p>
+      <p begin="1066.87s" xml:id="p229" end="1068.22s">Captain!</p>
+      <p begin="1068.92s" xml:id="p230" end="1071.27s">L-Look...</p>
+      <p begin="1076.86s" xml:id="p231" end="1080.67s">If we get caught by that waterspout,<br />the ship will sink.</p>
+      <p begin="1080.67s" xml:id="p232" end="1082.42s">Lower the sails now.</p>
+      <p begin="1082.42s" xml:id="p233" end="1083.07s">Aye!</p>
+      <p begin="1083.07s" xml:id="p234" end="1084.43s">I'll help!</p>
+      <p begin="1084.43s" xml:id="p235" end="1086.17s">Uh-huh, come with me.</p>
+      <p begin="1086.17s" xml:id="p236" end="1087.99s">I'll take the helm.</p>
+      <p begin="1087.99s" xml:id="p237" end="1088.66s">Aye!</p>
+      <p begin="1089.14s" xml:id="p238" end="1091.16s">Full to starboard!</p>
+      <p begin="1093.39s" xml:id="p239" end="1094.23s">Hurry!</p>
+      <p begin="1094.76s" xml:id="p240" end="1098.19s">The waterspout is gonna catch us!</p>
+      <p begin="1118.22s" xml:id="p241" end="1120.62s">Take back what you said!</p>
+      <p begin="1120.99s" xml:id="p242" end="1123.69s">Take back your words,<br />and I'll forgive you, Leorio.</p>
+      <p begin="1124.12s" xml:id="p243" end="1126.21s">How many times must I repeat myself?</p>
+      <p begin="1126.21s" xml:id="p244" end="1127.94s">You should show me some respect.</p>
+      <p begin="1127.94s" xml:id="p245" end="1130.33s">I won't back down.</p>
+      <p begin="1131.75s" xml:id="p246" end="1133.05s">Then I have no choice...</p>
+      <p begin="1147.98s" xml:id="p247" end="1149.32s">Katsuo-san!</p>
+      <p begin="1156.99s" xml:id="p248" end="1158.23s">Damn it!</p>
+      <p begin="1172.02s" xml:id="p249" end="1173.81s">Pull 'em out! Now...</p>
+      <p begin="1189.52s" xml:id="p250" end="1191.14s">You idiot!</p>
+      <p begin="1191.14s" xml:id="p251" end="1193.98s">If we hadn't grabbed your legs,</p>
+      <p begin="1193.98s" xml:id="p252" end="1196.67s">you'd be shark bait now.</p>
+      <p begin="1196.67s" xml:id="p253" end="1198.12s">Honestly...</p>
+      <p begin="1198.12s" xml:id="p254" end="1200.03s">How reckless can you be?</p>
+      <p begin="1200.03s" xml:id="p255" end="1202.18s">But you did catch me.</p>
+      <p begin="1202.18s" xml:id="p256" end="1203.07s">Huh?</p>
+      <p begin="1204.01s" xml:id="p257" end="1206.91s">You both caught me!</p>
+      <p begin="1207.62s" xml:id="p258" end="1209.75s">Well, I guess so...</p>
+      <p begin="1210.41s" xml:id="p259" end="1211.2s">Gon!</p>
+      <p begin="1214.99s" xml:id="p260" end="1216.23s">Katsuo-san!</p>
+      <p begin="1216.69s" xml:id="p261" end="1218.66s">Thanks, Gon!</p>
+      <p begin="1218.66s" xml:id="p262" end="1220.44s">You saved my life.</p>
+      <p begin="1221.36s" xml:id="p263" end="1223.61s">I couldn't have done it alone.</p>
+      <p begin="1223.61s" xml:id="p264" end="1225.93s">These two helped save you.</p>
+      <p begin="1225.96s" xml:id="p265" end="1226.83s">Huh?</p>
+      <p begin="1227.52s" xml:id="p266" end="1229.2s">Thank you very much!</p>
+      <p begin="1230.86s" xml:id="p267" end="1233.07s">No, you don't need to thank me.</p>
+      <p begin="1233.98s" xml:id="p268" end="1235.14s">Well...</p>
+      <p begin="1235.14s" xml:id="p269" end="1238.07s">Yeah, I'm glad you're okay.</p>
+      <p begin="1238.07s" xml:id="p270" end="1242.37s">Yeah! So I'll be returning to my station!</p>
+      <p begin="1246.43s" xml:id="p271" end="1248.08s">What?</p>
+      <p begin="1248.61s" xml:id="p272" end="1251.06s">I apologize for my rude behavior.</p>
+      <p begin="1251.06s" xml:id="p273" end="1254.09s">Sorry, Leorio-san.</p>
+      <p begin="1254.49s" xml:id="p274" end="1257.13s">Wh-What's with the sudden change?</p>
+      <p begin="1257.13s" xml:id="p275" end="1258.62s">We sound like strangers...</p>
+      <p begin="1258.62s" xml:id="p276" end="1261.1s">Just call me Leorio... Leorio works.</p>
+      <p begin="1262.98s" xml:id="p277" end="1264.5s">I'm also sorry.</p>
+      <p begin="1265.78s" xml:id="p278" end="1268.42s">I take back everything I said.</p>
+      <p begin="1269.15s" xml:id="p279" end="1270.34s">I was wrong.</p>
+      <p begin="1270.7s" xml:id="p280" end="1272.43s">No, it's okay.</p>
+      <p begin="1278.15s" xml:id="p281" end="1280.25s">I like you guys!</p>
+      <p begin="1280.67s" xml:id="p282" end="1281.75s">Okay!</p>
+      <p begin="1282.2s" xml:id="p283" end="1284.63s">I'll take responsibility for bringing</p>
+      <p begin="1284.63s" xml:id="p284" end="1288.55s">you three to the port closest to the exam site.</p>
+      <p begin="1289.32s" xml:id="p285" end="1290.49s">Really?</p>
+      <p begin="1290.93s" xml:id="p286" end="1292.78s">What about your test?</p>
+      <p begin="1294.56s" xml:id="p287" end="1295.89s">Like I said...</p>
+      <p begin="1295.89s" xml:id="p288" end="1298.32s">It's my decision to make.</p>
+      <p begin="1299.93s" xml:id="p289" end="1302.01s">And all three of you pass!</p>
+      <p begin="1305.86s" xml:id="p290" end="1308.62s">Yay!</p>
+      <p begin="1311.49s" xml:id="p291" end="1314.59s">And so began Gon's journey...</p>
+      <p begin="1315.05s" xml:id="p292" end="1319.19s">To follow in his father's footsteps<br />and become a Hunter.</p>
+      <p begin="1410.09s" xml:id="p293" end="1412.62s">Next time: Test x Of x Tests.</p>
+      <p begin="1412.62s" xml:id="p294" end="1413.72s">Look forward to it!</p>
+    </div>
+  </body>
+</tt>
